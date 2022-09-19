@@ -13,12 +13,12 @@ The purpose of this repository is to demonstrate below:
 ### Usage
 - Valid users are in this json in the *login* field [Users](https://gist.githubusercontent.com/giovannyvelezalt/977222c95645fa89c36e7b35a2f84251/raw/da16b9d7f08a2ee129c4200a689b2362fd0d2b5c/)
 - No password necessary in this app
-- ![Video demo](figures/login.webm)
+- Video demo https://raw.githubusercontent.com/giovannyvelezalt/LoginApp/master/figures/login.webm
 
 ## 📷 Previews
 
 <p align="center">
-<img src="figures/login.webm" alt="Login App" width="273" />
+<video src="figures/login.webm" alt="Login App" width="273" />
 </p>
 
 ## 🛠 Tech Stacks & Open Source Libraries
