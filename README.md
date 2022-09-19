@@ -13,7 +13,6 @@ The purpose of this repository is to demonstrate below:
 ### Usage
 - Valid users are in this json in the *login* field [Users](https://gist.githubusercontent.com/giovannyvelezalt/977222c95645fa89c36e7b35a2f84251/raw/da16b9d7f08a2ee129c4200a689b2362fd0d2b5c/)
 - No password necessary in this app
-- [Video demo](https://raw.githubusercontent.com/giovannyvelezalt/LoginApp/master/figures/login.mp4)
 
 ## 📷 Preview
 https://user-images.githubusercontent.com/90938435/191097480-db2137b0-92c3-4227-b476-131f946a649a.mp4
