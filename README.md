@@ -17,9 +17,6 @@ The purpose of this repository is to demonstrate below:
 ## 📷 Preview
 https://user-images.githubusercontent.com/90938435/191097480-db2137b0-92c3-4227-b476-131f946a649a.mp4
 
-
-- https://raw.githubusercontent.com/giovannyvelezalt/LoginApp/master/figures/login.mp4
-
 ## 🛠 Tech Stacks & Open Source Libraries
 - Minimum SDK level 21.
 - 100% [Jetpack Compose](https://developer.android.com/jetpack/compose) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
