@@ -15,13 +15,8 @@ The purpose of this repository is to demonstrate below:
 - No password necessary in this app
 - ![Video demo](https://raw.githubusercontent.com/giovannyvelezalt/LoginApp/master/figures/login.webm)
 
-## 📷 Previews
-
-<p align="center">
-<video width="273" controls>
-<source src="https://raw.githubusercontent.com/giovannyvelezalt/LoginApp/master/figures/login.webm" type="video/webm">
-</video>
-</p>
+## 📷 Preview
+- There's a ![Video demo](https://raw.githubusercontent.com/giovannyvelezalt/LoginApp/master/figures/login.webm)
 
 ## 🛠 Tech Stacks & Open Source Libraries
 - Minimum SDK level 21.
