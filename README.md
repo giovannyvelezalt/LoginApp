@@ -19,7 +19,7 @@ The purpose of this repository is to demonstrate below:
 
 <p align="center">
 <video width="273" controls>
-<source src="figures/login.webm" type="video/webm">
+<source src="https://raw.githubusercontent.com/giovannyvelezalt/LoginApp/master/figures/login.webm" type="video/webm">
 </video>
 </p>
 
