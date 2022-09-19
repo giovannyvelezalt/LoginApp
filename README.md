@@ -18,7 +18,7 @@ The purpose of this repository is to demonstrate below:
 ## 📷 Previews
 
 <p align="center">
-<video src="figures/login.webm" alt="Login App" width="273" />
+<video src="https://raw.githubusercontent.com/giovannyvelezalt/LoginApp/master/figures/login.webm" alt="Login App" width="273" />
 </p>
 
 ## 🛠 Tech Stacks & Open Source Libraries
